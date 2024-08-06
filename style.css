@@ -5,7 +5,9 @@ div{
     color: black;
 }
 p{
-    color: blue;
+    background-color: green;
+    
+    color: white;
 }
 .loda-class{
     color: brown;
@@ -13,5 +15,20 @@ p{
 #hello-world{
     color: aqua;
     text-align: center;
-    
+    background-color: black;
+}
+.subsection.header{
+    color: red;
+}
+.subsection#preview{
+    color: blueviolet;
+}
+.ancestor .contents .contents{
+    background-color: #10f;
+    font-style: italic;
+}
+.but{
+    background-color: orange;
+    font-size: 18px;
+    color: white;
 }
