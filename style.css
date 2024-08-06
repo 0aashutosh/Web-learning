@@ -1,0 +1,17 @@
+* {
+    color: rgb(128, 94, 0);
+}
+div{
+    color: black;
+}
+p{
+    color: blue;
+}
+.loda-class{
+    color: brown;
+}
+#hello-world{
+    color: aqua;
+    text-align: center;
+    
+}
